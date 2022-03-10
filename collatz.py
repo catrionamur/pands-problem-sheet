@@ -16,5 +16,5 @@ def collatz(num): #Define a function that passes variable of type integer
 def main():
     n = int(input('Please Input a positive integer enter 1 to exit: ')) # Define a function that takes absolute integer from user and retuns that integer to defined collatz function.
     num =abs(n) # ensure its a positive number
-    collatz(num) #close col latz function and pass back absolute value inputted by user for collatz function to process
+    collatz(num) #close collatz function and pass back absolute value inputted by user for collatz function to process
 main() #close main function and pass nothing back 
