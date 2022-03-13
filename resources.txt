@@ -3,13 +3,18 @@ https://dev.to/mindninjax/how-to-build-a-bmi-calculator-in-python-4g2g
 https://www.w3resource.com/python-exercises/python-basic-exercise-66.php
 https://stackabuse.com/python-print-without-newline/
 
+*Week 3  
+https://github.com/g00387822/reverse_string_every_second_letter
+https://www.geeksforgeeks.org/print-words-string-reverse-order/
+https://realpython.com/reverse-string-python/
+
 *Week 4 - Collatz
 https://www.webucator.com/article/collatz-conjecture-in-python/
 https://www.tutorialspoint.com/collatz-sequence-in-python
 https://www.educative.io/edpresso/how-to-generate-the-collatz-sequence-in-python
 https://www.pythonpool.com/collatz-sequence-python/
 
-week 5
+*week 5 - Weekday
 https://pythontic.com/datetime/date/weekday
 https://poopcode.com/check-day-weekday-weekend-python/
 https://www.tutorialsrack.com/articles/324/how-to-find-the-current-day-is-weekday-or-weekends-in-python
