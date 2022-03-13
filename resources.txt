@@ -1,3 +1,13 @@
+*week 2 BMI
+https://dev.to/mindninjax/how-to-build-a-bmi-calculator-in-python-4g2g
+https://www.w3resource.com/python-exercises/python-basic-exercise-66.php
+https://stackabuse.com/python-print-without-newline/
+
+*Week 4 - Collatz
+https://www.webucator.com/article/collatz-conjecture-in-python/
+https://www.tutorialspoint.com/collatz-sequence-in-python
+https://www.educative.io/edpresso/how-to-generate-the-collatz-sequence-in-python
+https://www.pythonpool.com/collatz-sequence-python/
 
 
 *Week 6 Square Root

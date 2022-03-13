@@ -1,5 +1,5 @@
 # bmi.py
-# This program calculates BMI inputted by user
+# This program calculates BMI which is calculated from user input
 # author: Catriona Murray
 from pickletools import int4 #Import Library
 weight = int(input("Enter Weight(kg):")) # Take in weight as integer
