@@ -3,7 +3,6 @@
 # It then outputs the number and the square root of the number
 # Author: Catriona Murray
 def newton_method(number, number_iters = 100): #Define a function, function has 2 numbers defined as parameter
-
     a = (float(number)) #Define a variable that stores a number as a float the variable will intially be the number entered by user but later the root number will be set as the value
 
     for i in range(number_iters): # run a loop until it reaches 100 
