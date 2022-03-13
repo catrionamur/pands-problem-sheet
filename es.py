@@ -4,7 +4,7 @@ inputFile = open(fileName, "r")  # open file in read mode
 def letterFrequency (fileName, letter): #define function that has 2 arguments, name of the file and the letter that is being checked 
     # store content of the file in a variable for processing
     text = inputFile.read()
-    # declare count variable
+    # declare count variable used in the for loop
     count = 0
     # iterate through each character in the text filer
     for char in text: 
