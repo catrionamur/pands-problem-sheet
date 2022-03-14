@@ -9,7 +9,7 @@ def collatz(num): #Define a function that passes variable of type integer
         else:
             num = int(3 * num + 1)  #Otherwise the num variable value is odd so divide by 2
     else:
-        print(num , end =" ") #if the number variable reaches 1 end while
+        print(num , end =" ") #if the number variable reaches 1 end while loop
 def main():
     n = int(input('Please Input a positive integer enter 1 to exit: ')) # Define a function that takes absolute integer from user and retuns that integer to defined collatz function.
     num =abs(n) # ensure its a positive number
