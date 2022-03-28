@@ -3,9 +3,8 @@
 # Import Module datetime
 import datetime
 # Get todays day
-weekNumber = datetime.datetime.today().weekday()
-if weekNumber < 5: #5 days in a weekday
-    #print("Today's DateTime is {0} and it's a Weekday".format(datetime.datetime.today()))
+todaysDay = datetime.datetime.today().weekday()
+if todaysDay <= 5: #5 days make up a weekday
     print("Yes, unfortunately today is a weekday.")
 else: #otherwise its the weekend
-    print ("It is the weekend, yay!",end="")
+    print ("It is the weekend, yay!",end="")  # End line with space an not a new line

@@ -1,0 +1,14 @@
+
+https://stackoverflow.com/questions/67946868/how-do-i-install-pandas-into-visual-studios-code
+https://stackoverflow.com/questions/54129321/installed-pandas-but-still-cant-import-it
+https://stackoverflow.com/questions/37400974/unicode-error-unicodeescape-codec-cant-decode-bytes-in-position-2-3-trunca
+https://www.javatpoint.com/pandas-sum#:~:text=sum()%20function%20is%20used,the%20values%20in%20each%20column.4
+https://datahub.io/machine-learning/iris#data
+https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html
+https://towardsdatascience.com/classification-basics-walk-through-with-the-iris-data-set-d46b0331bf82
+https://www.ritchieng.com/machine-learning-iris-dataset/
+https://www.geeksforgeeks.org/python-basics-of-pandas-using-iris-dataset/
+https://thispointer.com/pandas-get-sum-of-column-values-in-a-dataframe/
+https://www.geeksforgeeks.org/python-pandas-dataframe-std/?ref=lbp
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.median.html
+https://erikrood.com/Python_References/pandas_column_average_median_final.html
