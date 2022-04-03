@@ -33,7 +33,7 @@ https://askubuntu.com/questions/1059579/input-the-filename-in-the-commandline-as
 https://intranet.cb.amrita.edu/sites/default/files/files_0.pdf
 https://www.codegrepper.com/code-examples/python/pass+file+as+argument+to+python+script
 https://www.geeksforgeeks.org/count-the-number-of-times-a-letter-appears-in-a-text-file-in-python/
-
+https://www.codegrepper.com/code-examples/python/UnicodeDecodeError%3A+%27charmap%27+codec+can%27t+decode+byte+0x9d+in+position+5113%3A+character+maps+to+%3Cundefined%3E
 
 *Week 8
 https://stackoverflow.com/questions/40185437/no-module-named-numpy-visual-studio-code
